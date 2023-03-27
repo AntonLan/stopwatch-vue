@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #353638;
+}
+
+@font-face {
+    font-family: "GothamPro";
+    src: url("@/fonts/gothampro_medium.ttf");
+    font-style: normal;
+    font-weight: 400;
+}
